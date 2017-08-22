@@ -1,2 +1,2 @@
 # Sprint_1
-First sprint to CS3250
+Testing Git to Slack connection...
